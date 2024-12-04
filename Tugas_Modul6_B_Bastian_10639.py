@@ -133,7 +133,7 @@ st.markdown(christmas_background, unsafe_allow_html=True)
 
 title_html = """
 <div style="text-align: center; color: white; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8); font-size: 50px; font-weight: bold;">
-    🎄 Prediksi Kematangan Buah Naga - 1815 🎅
+    🎄 Prediksi Kematangan Buah Naga - 10639 🎅
 </div>
 """
 st.markdown(title_html, unsafe_allow_html=True)
